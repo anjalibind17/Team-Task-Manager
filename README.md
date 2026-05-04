@@ -14,7 +14,7 @@ A complete full-stack web app where users can create projects, invite team membe
 - JWT protected REST APIs
 - MongoDB relationships for users, projects, members, and tasks
 - Role-based access control
-- Global Admin account: `dakshikac2004chaudhary@gmail.com`
+- Global Admin account: `abind0173@gmail.com`
 - Admin can view all projects and tasks
 - Project admins can edit/delete projects, add/remove members, and create/update/delete tasks
 - Members can view assigned projects and update task status
@@ -71,7 +71,7 @@ NEXT_PUBLIC_API_URL=http://localhost:5000/api
 ## Login Flow
 
 1. Create an account from the Signup page.
-2. Use `dakshikac2004chaudhary@gmail.com` for the account that should become global Admin.
+2. Use `abind0173@gmail.com` for the account that should become global Admin.
 3. Login.
 4. Create a project.
 5. Add members by email.
@@ -106,7 +106,7 @@ NEXT_PUBLIC_API_URL=http://localhost:5000/api
 
 ## Notes
 
-- The configured email `dakshikac2004chaudhary@gmail.com` is promoted to global Admin during signup, login, or authenticated API access.
+- The configured email `abind0173@gmail.com` is promoted to global Admin during signup, login, or authenticated API access.
 - The first creator of a project becomes the project Admin.
 - Members can update task status but cannot manage project members.
 - Project admins have full access inside their own projects.
